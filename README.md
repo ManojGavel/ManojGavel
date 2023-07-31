@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt="coding" width="400px" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg"/>
+<!-- <img alt="coding" width="400px" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg"/> -->
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="manojgavel" /> </p>
 

@@ -1,5 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)](https://rishavchanda.io)
-
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <!-- <img alt="coding" width="400px" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg"/> -->

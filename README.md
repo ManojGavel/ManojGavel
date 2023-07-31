@@ -1,19 +1,15 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- <img alt="coding" width="400px" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg"/> -->
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="manojgavel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojgavel" alt="manojgavel" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Myntra Clone](https://github.com/ManojGavel/Myntra-Clone)
 
 - 🌱 I’m currently learning **React Advc. ,Node js ,Backend (nodejs,ecpress,Mongo DB)**
-
-- 👯 I’m looking to collaborate on **React js Projects**
 
 - 👨‍💻 All of my projects are available at [Quaggasite.co.in](Quaggasite.co.in)
 
